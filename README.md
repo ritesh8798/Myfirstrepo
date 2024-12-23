@@ -1,3 +1,4 @@
 # Myfirstrepo
 this is my first repository.
-author - Ritesh sharma
+<br>
+Author - Ritesh Sharma
